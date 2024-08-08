@@ -1,2 +1,1 @@
-# Smart-Fan-Project
-This is my first project on Github
+# About my first project on Semester 2 
