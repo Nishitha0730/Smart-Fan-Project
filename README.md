@@ -14,4 +14,7 @@ Due to 3D printer size constraints (24 cm height limit), the enclosure was split
 Utilized epoxy plastic glue and screws to securely join the two printed parts.
 2. Circuit Diagram Development
 Contributed to designing the circuit diagram, ensuring smooth integration with sensors and the fan's control system.
+
+
+
 Through this project, I developed skills in enclosure design, 3D printing, and basic circuit design. These experiences have strengthened my foundation in hardware development and collaboration in team projects.
